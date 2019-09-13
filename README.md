@@ -1,0 +1,2 @@
+# QtSerialTools
+serialport debug tools
